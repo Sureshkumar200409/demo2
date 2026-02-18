@@ -1,0 +1,45 @@
+ @media only screen and (max-width: 450px) {
+     .tm-containers {
+         width: 400px;
+         height: 80px;
+     }
+     .logo-s {
+         margin-top: -45px;
+         width: 60px;
+     }
+     .tm-nav {
+         height: 100px;
+         ;
+     }
+     .navms {
+         margin-top: 20px;
+         background-color: rgba(10, 16, 16, 0.696);
+     }
+ }
+
+ @media only screen and (width: 430px) {
+     .tm-containers {
+         width: 430px;
+         height: 80px;
+     }
+     .logo-s {
+         width: 50px;
+         margin-top: -45px;
+     }
+     .navm {
+         margin-top: 10px;
+     }
+ }
+
+ .logo-s {
+     width: 70px;
+     margin-left: 10px;
+ }
+
+ .navm {
+     margin-top: -70px;
+ }
+
+ .tm-containers {
+     height: 100px;
+ }
